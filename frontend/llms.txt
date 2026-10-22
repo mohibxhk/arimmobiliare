@@ -1,0 +1,18 @@
+# AR Immobiliare
+
+> Agenzia immobiliare indipendente con sede a Corso Cairoli 39, 27100 Pavia (Italia). Vendita, affitto e valutazione di immobili selezionati a Pavia e nel suo territorio. Sito bilingue italiano/inglese.
+
+## Pagine principali
+
+- / — Home: presentazione dell'agenzia, immobili in evidenza, servizi e progetti
+- /properties — Elenco degli immobili in vendita e in affitto, con filtri per contratto, tipologia, locali e prezzo
+- /properties/[slug] — Scheda dettagliata di ogni immobile con galleria, caratteristiche e modulo di richiesta
+- /who-we-are — Chi siamo: l'agenzia, il metodo, il legame con Pavia
+- /services — Servizi: vendita, acquisto, valutazione, locazioni, ricerca personalizzata, consulenza per investimenti
+- /projects — Progetti residenziali seguiti dall'agenzia
+- /sell — Vendere casa: percorso in sei passi e richiesta di valutazione gratuita
+- /rent — Affitti: servizi per proprietari e per chi cerca casa
+- /appointment — Prenotazione di un appuntamento in sede
+- /contact — Contatti, indirizzo e mappa
+- /privacy — Privacy policy
+- /cookie-policy — Cookie policy
